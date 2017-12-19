@@ -1,5 +1,5 @@
 package Scalable_ML.nProximity
-
+import org.apache.spark._
 /**
  * @author ${user.name}
  */
