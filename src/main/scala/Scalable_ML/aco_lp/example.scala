@@ -1,9 +1,6 @@
-package Scalable_ML.aco
+package Scalable_ML
 
-/**
- * @author ${user.name}
- */
-object aco {
+package object aco_lp {
   def main(args : Array[String]) {
     println( "Hello Ant Colony!" )
   }
