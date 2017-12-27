@@ -1,5 +1,9 @@
 package Scalable_ML.bnmr
 
+/**
+ * @author Aqsa Zahoor
+ */
+
 object optFunctions {
   //..................helping functions..................//
   def TermZakharov(xs:List[(Int,Double)]): Double = {
