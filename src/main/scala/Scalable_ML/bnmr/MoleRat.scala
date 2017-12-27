@@ -1,4 +1,4 @@
-package BNMR
+package Scalable_ML.bnmr
 
 class MoleRat ( foodSource: List[ (Int,Double) ] , min: Double , max:Double , dimensions:Int ){
  // val foodSource : List[ Double ]    =    randInitialize [ Double ] ( min , max , dimensions ).Solution
