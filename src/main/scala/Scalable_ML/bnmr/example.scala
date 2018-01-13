@@ -5,6 +5,6 @@ package Scalable_ML.bnmr
  */
 object bnmr {
   def main(args : Array[String]) {
-    println( "Hello BNMR!" )
+    BNMR.BNMRalgo.BlindNakedMoleRatAlgorithm()
   }
 }
